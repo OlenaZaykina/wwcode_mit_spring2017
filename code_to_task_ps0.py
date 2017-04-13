@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Apr  5 21:30:46 2017
-
-@author: Oleksandr
-"""
 import math
 c=x**y
 x = int(input('Enter number x: '))
